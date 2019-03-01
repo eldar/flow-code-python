@@ -13,7 +13,7 @@
 import numpy as np
 import os
 
-TAG_STRING = 'PIEH'
+TAG_STRING = b'PIEH'
 
 def write(flow, filename):
 
